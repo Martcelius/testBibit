@@ -17,7 +17,12 @@ unit test
 -------------------------------------
 1. npm test
 
-sample API
+sample API in local 
 -----------------------------------
 * for search `http://localhost:3000/v1/movie/search?s=Batman`
 * for detail `http://localhost:3000/v1/movie/detail?movieId=tt0372784`
+
+sample API in public url
+----------------------------------
+* for search `https://movie-api-bibit.herokuapp.com/v1/movie/search?s=Batman`
+* for detail `https://movie-api-bibit.herokuapp.com/v1/movie/detail?movieId=tt0372784`
