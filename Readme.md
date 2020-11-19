@@ -1,1 +1,1 @@
-Readme for movie APi in folder movieAPI
+Readme for movie API in folder movieAPI
